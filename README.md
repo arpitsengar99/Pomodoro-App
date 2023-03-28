@@ -10,7 +10,7 @@ Set a work duration and break duration
 Start and stop the timer
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/pomodoro-timer.git
+Clone the repository: git clone https://github.com/arpitsengar99/Pomodoro-App.git
 Install the required packages: pip install -r requirements.txt
 
 ## Usage
