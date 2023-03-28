@@ -1,2 +1,47 @@
-# Pomodoro-App
-The Pomodoro app is a simple and effective productivity tool designed to help you stay focused and get things done. 
+# Pomodoro Timer
+A simple Pomodoro timer app created in Python.
+
+## Features
+Set a work duration and break duration
+Start and stop the timer
+
+## Installation
+Clone the repository: git clone https://github.com/your-username/pomodoro-timer.git
+Install the required packages: pip install -r requirements.txt
+
+## Usage
+Simply of the folder and run the main.py script
+Click the "Start" button to start the timer
+When the timer ends, it will notify you.
+Click the "Stop" button to stop the timer
+
+## Interface Images
+<table>
+            <tr>
+                <td>
+                    <img src="assets/start_image.png" alt="start_image.png" height="380">
+                </td>
+                <td>
+                    <img src="assets/work_mode.png" alt="start_image.png" height="380">
+                </td>
+            </tr>
+        </table>
+
+## Dependencies
+This project requires the following packages:
+<ul>
+        <li>
+            tkinter for the GUI
+        </li>
+    </ul>
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+If you have any questions or feedback regarding this project, please don't hesitate to contact me:
+    <ul>
+        <li>Email: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)</li>
+        <li>Linktree: [Arpit Sengar](https://linktr.ee/arpitwastaken)</li>
+    </ul>
+I'm always happy to hear from fellow developers and learn new things. Don't hesitate to reach out!
