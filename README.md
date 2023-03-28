@@ -2,6 +2,9 @@
 # Pomodoro Timer
 A simple Pomodoro timer app created in Python.
 
+## About Pomodoro
+Pomodoro timer is a time management technique developed by Francesco Cirillo in the late 1980s. It involves breaking work into focused 25-minute intervals, separated by short breaks. The method is designed to improve productivity and concentration by helping users maintain focus on a task without distractions or interruptions. The Pomodoro timer is a tool used to measure and track these intervals and breaks, helping users to stick to the technique and achieve their goals.
+
 ## Features
 Set a work duration and break duration
 Start and stop the timer
