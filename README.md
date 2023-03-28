@@ -1,3 +1,4 @@
+![Header](assets/banner.png)
 # Pomodoro Timer
 A simple Pomodoro timer app created in Python.
 
